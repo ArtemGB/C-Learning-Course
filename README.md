@@ -7,7 +7,7 @@
 ## Как читать
 
 ~~Глазами~~ На данный момент курс будет состоять из двух разделов:
-1. [План изучения теории](https://github.com/ArtemGB/Csharp-Learning-Course/blob/master/План%20изучения%20теории.md).
+1. [Теория](https://github.com/ArtemGB/Csharp-Learning-Course/blob/master/Теория.md).
 2. [Практика](https://github.com/ArtemGB/Csharp-Learning-Course/blob/master/Практика.md).
 3. [Дополнительно](https://github.com/ArtemGB/Csharp-Learning-Course/blob/master/Дополнительно.md) - тут собрано небольшое количество разных фич, которыми я пользуюсь и которые могут помочь вам.
 
